@@ -1,4 +1,3 @@
-
 # Pomodoro Timer ⏱️
 
 A minimalist Pomodoro Technique timer application built with React to boost productivity through focused work sessions.
@@ -29,8 +28,7 @@ The Pomodoro Technique is a time management method that uses a timer to break wo
 
 1. Clone the repository
 ```bash
-git clone git clone https://github.com/RithikaKP/pomodoro-timer
-
+git clone https://github.com/RithikaKP/pomodoro-timer
 ```
 
 2. Navigate to project directory
@@ -48,7 +46,6 @@ npm install
 npm run dev
 ```
 
-5. Open [http://localhost:5173/](http://localhost:5173/) in your browser
 
 ## Usage
 
@@ -75,7 +72,7 @@ MIT License - feel free to use this project for learning or personal use.
 
 ## Author
 
-Your Name - [Rithika KP](/https://github.com/RithikaKP)
+Rithika KP - https://github.com/RithikaKP
 
 ---
 
