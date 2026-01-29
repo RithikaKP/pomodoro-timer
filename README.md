@@ -23,17 +23,14 @@ The Pomodoro Technique is a time management method that uses a timer to break wo
 - JavaScript (ES6+)
 - CSS3
 - HTML5 Audio API
+- Vite
+
 
 ## Installation
 
 1. Clone the repository
 ```bash
-<<<<<<< HEAD
 git clone https://github.com/RithikaKP/pomodoro-timer
-=======
-git clone git clone https://github.com/RithikaKP/pomodoro-timer
-
->>>>>>> 63471ab (Initial commit: Pomodoro Timer)
 ```
 
 2. Navigate to project directory
@@ -51,10 +48,6 @@ npm install
 npm run dev
 ```
 
-<<<<<<< HEAD
-=======
-5. Open [http://localhost:5173/](http://localhost:5173/) in your browser
->>>>>>> 63471ab (Initial commit: Pomodoro Timer)
 
 ## Usage
 
@@ -66,7 +59,7 @@ npm run dev
 
 ## Future Enhancements
 
-- [ ] Auto Long break after 4 pomodoros
+- [ ] Auto long break after 4 pomodoros
 - [ ] Task list integration
 - [ ] Statistics and productivity insights
 - [ ] Sound customization
@@ -81,18 +74,11 @@ MIT License - feel free to use this project for learning or personal use.
 
 ## Author
 
-<<<<<<< HEAD
 Rithika KP - https://github.com/RithikaKP
-=======
-Your Name - [Rithika KP](https://github.com/yourusername)
->>>>>>> 63471ab (Initial commit: Pomodoro Timer)
 
 ---
 
 ⭐ Star this repo if you found it helpful!
 ```
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 63471ab (Initial commit: Pomodoro Timer)
