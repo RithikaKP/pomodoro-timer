@@ -2,6 +2,10 @@
 
 A minimalist Pomodoro Technique timer application built with React to boost productivity through focused work sessions.
 
+## 🌐 Live Demo
+
+**[View Live Demo →](https://pomodoro-timer-sage-six.vercel.app/)**
+
 ## Features
 
 - ⏰ 25-minute work sessions
@@ -25,29 +29,27 @@ The Pomodoro Technique is a time management method that uses a timer to break wo
 - HTML5 Audio API
 - Vite
 
-
 ## Installation
 
 1. Clone the repository
 ```bash
-git clone https://github.com/RithikaKP/pomodoro-timer
+   git clone https://github.com/RithikaKP/pomodoro-timer
 ```
 
 2. Navigate to project directory
 ```bash
-cd pomodoro-timer
+   cd pomodoro-timer
 ```
 
 3. Install dependencies
 ```bash
-npm install
+   npm install
 ```
 
 4. Start the development server
 ```bash
-npm run dev
+   npm run dev
 ```
-
 
 ## Usage
 
@@ -79,6 +81,3 @@ Rithika KP - https://github.com/RithikaKP
 ---
 
 ⭐ Star this repo if you found it helpful!
-```
-
-
